@@ -1,4 +1,3 @@
 # README
 
-
-Text example to be shown in the webpage.
+- Starting point: [https://maggieappleton.com/basb](https://maggieappleton.com/basb)
