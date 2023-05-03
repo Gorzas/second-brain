@@ -28,3 +28,7 @@ Run:
 ```
 ember t -s -m "Integration | Component | awesome-component"
 ```
+
+### References
+
+- Ember Test helpers - [https://github.com/emberjs/ember-test-helpers/blob/master/API.md](https://github.com/emberjs/ember-test-helpers/blob/master/API.md)
