@@ -1,5 +1,7 @@
 # EmberJS Tests
 
+
+
 ## Pause tests
 
 Pauses the current test to interact with the view. It allows you to inspect the state of your application at any point.
